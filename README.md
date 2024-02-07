@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub   
+## Author: Matthew Preston
+# Date: 2-7-2024
 
 ## 🤓 Course overview and learning outcomes 
 
